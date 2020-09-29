@@ -1,5 +1,5 @@
 import random
-n = 10
+n = 500
 l = []
 k = []
 for i in range(n):
