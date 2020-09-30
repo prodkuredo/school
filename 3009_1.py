@@ -7,4 +7,3 @@ def q(a, b, c):
         return (-b/(2*a))
     else:
         return ('нет корня')
-print(q (1,2,-3))
